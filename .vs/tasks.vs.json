@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Main",
+      "appliesTo": "Byte Count Method/Main.c",
+      "type": "launch"
+    }
+  ]
+}
